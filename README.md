@@ -23,8 +23,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ravi246383gupta@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ravi246383gupta@gmail.com" height="30" width="40" /></a>
-<a href="https://instagram.com/ravi_gupta007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ravi_gupta007" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ravi-kumar-gupta-0887991b1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ravi246383gupta@gmail.com" height="30" width="40" /></a>
+<a href="https://instagram.com/ravi236383gupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ravi_gupta007" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/ravi246383gupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ravi246383gupta" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/ravi246383gupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ravi246383gupta" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/ravi246383gupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="ravi246383gupta" height="30" width="40" /></a>
