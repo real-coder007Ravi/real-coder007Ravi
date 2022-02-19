@@ -20,7 +20,7 @@
 - 📫 How to reach me **https://www.linkedin.com/in/ravi-kumar-gupta-0887991b1/**
 
 - ⚡ Fun fact **I think I can't crack jokes**
-- https://real-coder007/github-profile-views-counter
+- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=real-coder007e&theme=dark&background=000000)](https://git.io/streak-stats)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
