@@ -20,7 +20,7 @@
 - 📫 How to reach me **https://www.linkedin.com/in/ravi-kumar-gupta-0887991b1/**
 
 - ⚡ Fun fact **I think I can't crack jokes**
-- ![](https://real-coder007Ravi.com/ghpvc/?username=your-github-username&color=dc143c)
+- https://real-coder007/github-profile-views-counter
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
