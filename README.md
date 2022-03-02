@@ -20,10 +20,7 @@
 - 📫 How to reach me **https://www.linkedin.com/in/ravi-kumar-gupta-0887991b1/**
 
 - ⚡ Fun fact **I think I can't crack jokes**
--1
-2
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?real-coder007Ravi=jasongaylord&count_private=true&theme=tokyonight&showicons=true)]()
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?real-coder007Ravi=jasongaylord&langs_count=5&theme=tokyonight)]()
+[![Visits Badge](https://github.com/real-coder007Ravi?tab=repositories)](https://github.com/real-coder007Ravi?tab=repositories)
 
 
 <h3 align="left">Connect with me:</h3>
