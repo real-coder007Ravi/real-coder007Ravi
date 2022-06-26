@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/real-coder007Ravi?tab=repositories](https://github.com/real-coder007Ravi?tab=repositories)
 
-- CodeKaze Certificate: [https://drive.google.com/drive/search?q=Ravi%20certificate](https://drive.google.com/drive/search?q=Ravi%20certificate)
+- CodeKaze Certificate: [https://drive.google.com/drive/search?q=Ravi%20certificate](https://drive.google.com/file/d/1H--Y57-RLYmSK145-tHuH7pv1bD80Uzo/view?usp=sharing)
 
 - 💬 Ask me about **Problem Solving and Development**
 
