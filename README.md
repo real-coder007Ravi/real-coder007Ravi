@@ -22,7 +22,8 @@
 - 📫 How to reach me **ravi246383gupta@gamil.com**
 
 - ⚡ Fun fact **I can't crack jokes**
-Link for my Resume: https://drive.google.com/drive/u/0/my-drive
+
+-Link for my Resume: https://drive.google.com/drive/u/0/my-drive
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
