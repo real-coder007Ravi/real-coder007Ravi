@@ -23,7 +23,7 @@
 
 - ⚡ Fun fact **I can't crack jokes**
 
--Link for my Resume: https://drive.google.com/drive/u/0/my-drive
+-Link for my Resume: https://drive.google.com/file/d/1WpulEFAbNbA3JRVBNywqeglBN7Xocj2p/view?usp=sharing
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
