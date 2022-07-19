@@ -24,6 +24,7 @@
 - ⚡ Fun fact **I can't crack jokes**
 
 - Link for my Resume:  https://drive.google.com/file/d/1qGZu_pd3jwZaNfG4guLRNA32vVVO4g1b/view?usp=sharing
+- https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=algolia
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
