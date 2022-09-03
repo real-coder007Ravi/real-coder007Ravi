@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=real-coder007ravi&label=Profile%20views&color=0e75b6&style=flat" alt="real-coder007ravi" /> </p>
 
 <p align="left"> <a href="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=algolia"><img src="https://github-profile-trophy.vercel.app/?username=real-coder007ravi" alt="real-coder007ravi" /></a> </p>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=RED&pause=1000&color=F72E52&background=FF3A7100&vCenter=true&width=435&height=53&lines=Hello!!+I'm+Ravi+A+Frontend+Developer+and+A+Problem+Solver)](https://git.io/typing-svg)
+(https://readme-typing-svg.herokuapp.com?font=RED&pause=1000&color=F72E52&background=FF3A7100&vCenter=true&width=435&height=53&lines=Hello!!+I'm+Ravi+A+Frontend+Developer+and+A+Problem+Solver)](https://git.io/typing-svg)
 
 - 🔭 I’m currently working on **Frontend Development**
 
