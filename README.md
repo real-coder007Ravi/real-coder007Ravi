@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ravi Kumar Gupta</h1>
 <h3 align="center">A Self taught and Passionate Programmer skilled in problem solving along with hand on experience in the Frontend Development.</h3>
-<p align="center"> <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" align="right" width="500"> </p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=real-coder007ravi&label=Profile%20views&color=0e75b6&style=flat" alt="real-coder007ravi" /> </p>
 
 <p align="left"> <a href="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=algolia"><img src="https://github-profile-trophy.vercel.app/?username=real-coder007ravi" alt="real-coder007ravi" /></a> </p>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=RED&pause=1000&color=F72E52&background=FF3A7100&vCenter=true&width=435&height=53&lines=Hello!!+I'm+Ravi+A+Frontend+Developer+and+A+Problem+Solver" alt="Typing SVG" /></a>
-
+  <p align="right"> <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" align="right" width="500"> </p>
 - 🔭 I’m currently working on **Frontend Development**
 
 - 🌱 I’m currently learning **React-Js**
