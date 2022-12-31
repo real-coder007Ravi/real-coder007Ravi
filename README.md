@@ -1,31 +1,22 @@
 <h1 align="center">Hi 👋, I'm Ravi Kumar Gupta</h1>
-<h3 align="center">A Self taught and Passionate Programmer skilled in problem solving along with hand on experience in the Frontend Development.</h3>
+<h3 align="center">A Technology Enthusiast who loves Problem Solving and Web development in general. Like doing projects on Machine Learning too. Looking Forward to Contributing to Open Source</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=real-coder007ravi&label=Profile%20views&color=0e75b6&style=flat" alt="real-coder007ravi" /> </p>
-Link for my Resume:  https://drive.google.com/file/d/1H7QpyJ3gZQg9Ncyv62fU2zpPH7TnZdlX/view?usp=sharing
-<p align="left"> <a href="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=algolia"><img src="https://github-profile-trophy.vercel.app/?username=real-coder007ravi" alt="real-coder007ravi" /></a> </p>
+
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=RED&pause=1000&color=F72E52&background=FF3A7100&vCenter=true&width=435&height=53&lines=Hello!!+I'm+Ravi+A+Frontend+Developer" alt="Typing SVG" /></a>
   <p align="right"> <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" align="right" width="500"> </p>
-- 🔭 I’m currently working on **Frontend Development**
-
-- 🌱 I’m currently learning **React-Js**
-
-- 👯 I’m looking to collaborate on **Web Development**
-
-- 🤝 I’m looking for help with **UI/UX design**
-
+- 🔭 I’m Currently Learning Data Structures and Algorithms and Enhancing my Problem Solving Skills.
+- 🌱 I’m also Working on Enhancing my development Skills basically mastering Full Stack Development by building projects
+- 👯 I believe in Learning By Doing Principle which serves an effectiive means to master any technology
+- 🤝 I’m actively looking for Internships and Jobs preferably in Software Development Role
 - 👨‍💻 All of my projects are available at [https://github.com/real-coder007Ravi?tab=repositories](https://github.com/real-coder007Ravi?tab=repositories)
+ - 💬 Ask me about Problem Solving(DSA),Development and Machine Learning
+- 📫 How to reach me https://linktr.ee/rluck246378
+- ⚡ Fun fact I can't Crack Jokes
 
-- CodeKaze Certificate: [https://drive.google.com/drive/search?q=Ravi%20certificate](https://drive.google.com/file/d/1H--Y57-RLYmSK145-tHuH7pv1bD80Uzo/view?usp=sharing)
+ Achievment 
+   CodeKaze Certificate: [https://drive.google.com/drive/search?q=Ravi%20certificate](https://drive.google.com/file/d/1H--Y57-RLYmSK145-tHuH7pv1bD80Uzo/view?usp=sharing)
 
-- 💬 Ask me about **Problem Solving and Development**
-
-- 📫 How to reach me **ravi246383gupta@gamil.com**
-
-- ⚡ Fun fact **I can't crack jokes**
-
-- 
-- https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=algolia
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
