@@ -5,14 +5,15 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=RED&pause=1000&color=F72E52&background=FF3A7100&vCenter=true&width=435&height=53&lines=Hello!!+I'm+Ravi+A+Frontend+Developer" alt="Typing SVG" /></a>
   <p align="right"> <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" align="right" width="500"> </p>
-- 🔭 I’m Currently Learning Data Structures and Algorithms and Enhancing my Problem Solving Skills.
-- 🌱 I’m also Working on Enhancing my development Skills basically mastering Full Stack Development by building projects
-- 👯 I believe in Learning By Doing Principle which serves an effectiive means to master any technology
-- 🤝 I’m actively looking for Internships and Jobs preferably in Software Development Role
-- 👨‍💻 All of my projects are available at [https://github.com/real-coder007Ravi?tab=repositories](https://github.com/real-coder007Ravi?tab=repositories)
- - 💬 Ask me about Problem Solving(DSA),Development and Machine Learning
-- 📫 How to reach me https://linktr.ee/rluck246378
-- ⚡ Fun fact I can't Crack Jokes
+  
+<p>- 🔭 I’m Currently Learning Data Structures and Algorithms and Enhancing my Problem Solving Skills.</p>
+<p>- 🌱 I’m also Working on Enhancing my development Skills basically mastering Full Stack Development by building projects</p>
+<p>- 👯 I believe in Learning By Doing Principle which serves an effectiive means to master any technology</p>
+<p>- 🤝 I’m actively looking for Internships and Jobs preferably in Software Development Role</p>
+<p> - 👨‍💻 All of my projects are available at [https://github.com/real-coder007Ravi?tab=repositories](https://github.com/real-coder007Ravi?tab=repositories)
+<p>- 💬 Ask me about Problem Solving(DSA),Development and Machine Learning
+<p> - 📫 How to reach me https://linktr.ee/rluck246378
+<p> - ⚡ Fun fact I can't Crack Jokes
 
  Achievment 
    CodeKaze Certificate: [https://drive.google.com/drive/search?q=Ravi%20certificate](https://drive.google.com/file/d/1H--Y57-RLYmSK145-tHuH7pv1bD80Uzo/view?usp=sharing)
