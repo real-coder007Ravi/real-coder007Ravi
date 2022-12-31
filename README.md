@@ -1,8 +1,8 @@
 <h1 align="center"><marquee>Hi 👋, I'm Ravi Kumar Gupta</marquee></h1>
 <h3 align="center"><p><b>A Technology Enthusiast who loves Problem Solving and Web development in general.<p>
   <b>Like doing projects on Machine Learning too. Looking Forward to Contributing to Open Source<b></h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=real-coder007ravi&label=Profile%20views&color=0e75b6&style=flat" alt="real-coder007ravi" /> </p>
+<br>
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=real-coder007ravi&label=Profile%20views&color=0e75b6&style=flat" alt="real-coder007ravi" /> </p>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=RED&pause=1000&color=F72E52&background=FF3A7100&vCenter=true&width=435&height=53&lines=Hello!!+I'm+Ravi+A+Frontend+Developer" alt="Typing SVG" /></a>
   <p align="right"> <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" align="right" width="500"> </p>
