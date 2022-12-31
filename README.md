@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ravi Kumar Gupta</h1>
+<h1 align="center"><marquee>Hi 👋, I'm Ravi Kumar Gupta</marquee></h1>
 <h3 align="center">A Technology Enthusiast who loves Problem Solving and Web development in general. Like doing projects on Machine Learning too. Looking Forward to Contributing to Open Source</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=real-coder007ravi&label=Profile%20views&color=0e75b6&style=flat" alt="real-coder007ravi" /> </p>
