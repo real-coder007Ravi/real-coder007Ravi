@@ -9,8 +9,7 @@
   <p align="right"> <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" align="right" width="500"> </p>
   
 # 💫 About Me:
-🔭 I’m Currently Working on Improving my Problem-Solving-Skills<br>🌱 I’m also Working on Enhancing my development Skills, basically mastering Full Stack Development by building projects<br>👯 I believe in Learning By Doing Principle which serves an effective means to master any technology<br>🤝 I’m actively looking for Internships and Jobs, preferably in Software Development Role<br>📫 How to reach me https://linktr.ee/rluck246378<br>⚡ Fun fact I can't Crack Jokes<br>🔥 I also run a Community entitled "DEVELOP-N-CODE"<br>🏆 Achievement<br>    CodeKaze 2022 Certificate: https://drive.google.com/file/d/1H--Y57-RLYmSK145-tHuH7pv1bD80Uzo/view?usp=sharing
-    My Resume Link: https://drive.google.com/file/d/1eycj3hp0GrdFKr0L2nF9FV7xdH1JTBd9/view?usp=sharing
+🔭 I’m Currently Working on Improving my Problem-Solving-Skills<br>🌱 I’m also Working on Enhancing my development Skills, basically mastering Full Stack Development by building projects<br>👯 I believe in Learning By Doing Principle which serves an effective means to master any technology<br>🤝 I’m actively looking for Internships and Jobs, preferably in Software Development Role<br>📫 How to reach me https://linktr.ee/rluck246378<br>⚡ Fun fact I can't Crack Jokes<br>🔥 I also run a Community entitled "DEVELOP-N-CODE"<br>🏆 Achievement<br>    CodeKaze 2022 Certificate: https://drive.google.com/file/d/1H--Y57-RLYmSK145-tHuH7pv1bD80Uzo/view?usp=sharing<br>My Resume Link: https://drive.google.com/file/d/1eycj3hp0GrdFKr0L2nF9FV7xdH1JTBd9/view?usp=sharing
 
 
 
