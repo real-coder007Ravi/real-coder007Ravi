@@ -1,5 +1,5 @@
 <h1 align="center"><marquee>Hi 👋, I'm Ravi Kumar Gupta</marquee></h1>
-https://www.holopin.io/userbadge/clhuc0ous89940fmhl4jhfzf8
+
 
 <h3 align="center"><p><b>A Technology Enthusiast who loves Problem Solving and Web development in general.<p>
   <b>Like doing projects  too. Looking Forward to Contributing to Open Source<b></h3>
