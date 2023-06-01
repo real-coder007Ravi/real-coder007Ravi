@@ -1,5 +1,5 @@
 <h1 align="center"><marquee>Hi 👋, I'm Ravi Kumar Gupta</marquee></h1>
-
+[![An image of @realcoder007ravi's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/realcoder007ravi)](https://holopin.io/@realcoder007ravi)
 <h3 align="center"><p><b>A Technology Enthusiast who loves Problem Solving and Web development in general.<p>
   <b>Like doing projects  too. Looking Forward to Contributing to Open Source<b></h3>
 <br>
