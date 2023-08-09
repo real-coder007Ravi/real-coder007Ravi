@@ -22,7 +22,7 @@
 
 ![real-coder007Ravi's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=real-coder007Ravi&theme=merko&show_icons=true&hide_border=false&layout=compact)</br>
     
-
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=real-coder007Ravi&bg_color=ffdad1&color=f609e6&line=0f5cf5&point=ff0f0f&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
