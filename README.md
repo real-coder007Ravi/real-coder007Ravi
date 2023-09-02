@@ -1,6 +1,7 @@
 <h1 align="center"><marquee>Hi 👋, I'm Ravi Kumar Gupta</marquee></h1>
+</br>
 
-
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="350" />
 <h3 align="center"><p><b>A Technology Enthusiast who loves Problem Solving and Web development in general.<p>
   <b>Like doing projects  too. Looking Forward to Contributing to Open Source<b></h3>
 <br>
