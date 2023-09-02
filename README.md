@@ -2,7 +2,7 @@
 </br>
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="350" />
-<h3 align="center"><p><b>A Technology Enthusiast who loves Problem Solving and Web development in general.<p>
+<h3 align="center"><p><b>A Technology Enthusiast who loves Problem Solving and Web development in general.</p><br>
   <b>Like doing projects  too. Looking Forward to Contributing to Open Source<b></h3>
 <br>
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=real-coder007ravi&label=Profile%20views&color=0e75b6&style=flat" alt="real-coder007ravi" /> </p>
