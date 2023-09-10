@@ -1,7 +1,7 @@
 <h1 align="center"><marquee>Hi 👋, I'm Ravi Kumar Gupta</marquee></h1>
 </br>
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="350" />
+
 <h3 align="center"><p><b>A Technology Enthusiast who loves Problem Solving and Web development in general.</p><br>
   <p align="right"> <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" align="right" width="500"> </p>
   <b>Like doing projects  too. Looking Forward to Contributing to Open Source<b></h3>
@@ -9,7 +9,7 @@
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=real-coder007ravi&label=Profile%20views&color=0e75b6&style=flat" alt="real-coder007ravi" /> </p>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=RED&pause=1000&color=F72E52&background=FF3A7100&vCenter=true&width=435&height=53&lines=Hello!!+I'm+Ravi+A+ProblemSolver" alt="Typing SVG" /></a>
-  
+  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="350" />
   
 # 💫 About Me:
 🔭 I’m Currently Working on Improving my Problem-Solving-Skills<br>🌱 I’m also Working on Enhancing my development Skills, basically mastering Full Stack Development by building projects<br>👯 I believe in Learning By Doing Principle which serves an effective means to master any technology<br>🤝 I’m actively looking for Internships and Jobs, preferably in Software Development Role<br>📫 How to reach me https://linktr.ee/rluck246378<br>⚡ Fun fact I can't Crack Jokes<br>🔥 I also run a Community entitled "DEVELOP-N-CODE"<br>🏆 Achievement<br>    CodeKaze 2022 Certificate: https://drive.google.com/file/d/1H--Y57-RLYmSK145-tHuH7pv1bD80Uzo/view?usp=sharing<br>My Resume Link: https://drive.google.com/file/d/1eycj3hp0GrdFKr0L2nF9FV7xdH1JTBd9/view?usp=sharing
