@@ -1,6 +1,8 @@
 <h1 align="center"><marquee>Hi 👋, I'm Ravi Kumar Gupta</marquee></h1>
 </br>
- <center><img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="350" /></center> <br/>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=RED&pause=1000&color=F72E52&background=FF3A7100&vCenter=true&width=435&height=53&lines=Hello!!+I'm+Ravi+A+ProblemSolver" alt="Typing SVG" /></a>
+<br/><br/>
+ <center><img align="left" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="350" /></center> <br/>
 
 <h3 align="center"><p><b>A Technology Enthusiast who loves Problem Solving and Web development in general.</p><br>
 
@@ -9,8 +11,7 @@
 [![An image of @realcoder007ravi's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/realcoder007ravi)](https://holopin.io/@realcoder007ravi)
 
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=RED&pause=1000&color=F72E52&background=FF3A7100&vCenter=true&width=435&height=53&lines=Hello!!+I'm+Ravi+A+ProblemSolver" alt="Typing SVG" /></a>
-<br/><br/>
+
 
   
 # 💫 About Me:
