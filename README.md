@@ -14,7 +14,7 @@
 
   
 # 💫 About Me:
-🔭 I’m Currently Working on Improving my Problem-Solving-Skills<br>🌱 I’m also Working on Enhancing my development Skills, basically mastering Full Stack Development by building projects<br>👯 I believe in Learning By Doing Principle which serves an effective means to master any technology<br>🤝 I’m actively looking for Internships and Jobs, preferably in Software Development Role<br>⚡ Fun fact I can't Crack Jokes<br>🔥 I also run a Community entitled "DEVELOP-N-CODE"<br>🏆 Achievement<br>    CodeKaze 2022 Certificate: https://drive.google.com/file/d/1H--Y57-RLYmSK145-tHuH7pv1bD80Uzo/view?usp=sharing<br>My Resume Link: https://drive.google.com/file/d/1eycj3hp0GrdFKr0L2nF9FV7xdH1JTBd9/view?usp=sharing</br>
+🔭 I’m Currently Working on Improving my Problem-Solving-Skills<br>🌱 I’m also Working on Enhancing my development Skills, basically mastering Full Stack Development by building projects<br>👯 I believe in Learning By Doing Principle which serves an effective means to master any technology<br>🤝 I’m actively looking for Internships and Jobs, preferably in Software Development Role<br>⚡ Fun fact I can't Crack Jokes<br>🔥 I also run a Community entitled "DEVELOP-N-CODE"<br>🏆 Achievement<br>    CodeKaze 2022 Certificate: https://drive.google.com/file/d/1H--Y57-RLYmSK145-tHuH7pv1bD80Uzo/view?usp=sharing<br></br>
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=real-coder007ravi&label=Profile%20views&color=0e75b6&style=flat" alt="real-coder007ravi" /> </p><br/>
   
 
